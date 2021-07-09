@@ -4,6 +4,9 @@ public class Hello {
         //enhancing hello
         //head is where the project is currently
         // and master explanation
+        //Every change needs new name before commit and push
+
+        //When pressed the commit and push, change the steps name
     }
 }
 
